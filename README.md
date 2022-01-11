@@ -1,0 +1,1 @@
+# mineatsalot.github.io
