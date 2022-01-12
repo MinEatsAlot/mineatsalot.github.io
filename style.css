@@ -1,6 +1,7 @@
 body {
-  background-color: teal;
+  background-image: url("https://hdwallsource.com/img/2014/4/colorful-backgrounds-18963-19451-hd-wallpapers.jpg");
   font-family: arial, helvetica, sans-serif;
+  color: white;
 }
 
 .header {
@@ -9,12 +10,11 @@ body {
 
 p {
   text-align: center;
-  border-top: 1px solid #000000;
-  border-bottom: 1px solid #000000;
-  margin: 0% 35%;
-  background-color: rgba(0,0,0,0.1)
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+  margin: 0% 40%;
+
 }
 
 .footer {
-  
 }
