@@ -1,7 +1,6 @@
 body {
-  background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700320754.jpg");
-  font-family: arial, helvetica, sans-serif;
-  color: white;
+  background-image: url("https://www.der-roemer-shop.de/media/image/product/502/md/parchment-paper-antique-paper-parchment-substitute.jpg");
+  font-family: "courier new", helvetica, sans-serif;
 }
 
 .header {
@@ -16,6 +15,7 @@ h3 {
 
 p {
   text-align: center;
+  
 }
 
 .footer { 
