@@ -1,23 +1,20 @@
 body {
-  background-image: url("https://www.der-roemer-shop.de/media/image/product/502/md/parchment-paper-antique-paper-parchment-substitute.jpg");
-  font-family: "courier new", helvetica, sans-serif;
-}
-
-.header {
-  text-align: center;
+  background-image: url("https://wallpaperaccess.com/full/3872532.jpg");
+  font-family: "Garamond", helvetica, sans-serif;
 }
 
 h3 {
   text-align: center;
-  border-bottom: 1px solid white;
+  border-bottom: 2px solid white;
   margin: 0% 35%;
 }
 
-p {
+body {
   text-align: center;
-  
+  font-weight: 900;
 }
-
+ul {
+  text-align: left;
+}
 .footer { 
 }
-
